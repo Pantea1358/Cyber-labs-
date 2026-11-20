@@ -18,8 +18,8 @@ Nothing in this course touches real accounts, real networks, or other people's s
 | --- | --- | --- |
 | 1 | [Python for security and lab ethics](weeks/week01-python-for-security/) | Ready |
 | 2 | [Encoding, hashing, and file integrity](weeks/week02-hashing-integrity/) | Ready |
-| 3 | Passwords and cracking | Planned |
-| 4 | Cryptography basics | Planned |
+| 3 | [Passwords, cracking, and defense](weeks/week03-passwords/) | Ready |
+| 4 | [Cryptography, hands-on](weeks/week04-cryptography/) | Ready |
 | 5 | Intro to ML for security | Planned |
 | 6 | Phishing detection with ML | Planned |
 | 7 | Log analysis and anomaly detection | Planned |
